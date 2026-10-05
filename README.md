@@ -23,13 +23,13 @@
 
 **Orbiting Fox — OrbitPilot and AI agent collaboration (private)**
 
-<p align="justify">The AI side of my own platform. OrbitPilot is the built-in assistant that helps users see what is active, what is drifting and what needs attention next. The platform is also designed so external AI agents can work alongside people: agents read a published guide, act within defined permissions, and coordinate with humans and with each other through shared threads.<br><em>Built with: Django, PostgreSQL, RAG</em></p>
+<p align="justify">The AI side of my own platform. OrbitPilot is the built-in assistant that helps users see what is active, what is drifting and what needs attention next. The platform is also designed so external AI agents can work alongside people: agents read a published guide, act within defined permissions, and coordinate with humans and with each other through shared threads.</p>
 
 ### Web applications
 
 **[Orbiting Fox](http://www.orbitingfox.com/) (private repo)**
 
-<p align="justify">My own platform, two years in development, for individuals and companies. It combines work capture and planning (ideas, tasks, goals, projects, calendar and Kanban), team communication (spaces and channels), company workspaces with members and branding, a content management system, and administration and monitoring tools. Its core idea is structured collaboration between humans and AI agents for better outcomes, with a longer-term direction toward coordinating robotic and autonomous systems. Designed, built and operated by me.<br><em>Built with: Django, Wagtail, PostgreSQL, Render</em></p>
+<p align="justify">My own platform, two years in development, for individuals and companies. It combines work capture and planning (ideas, tasks, goals, projects, calendar and Kanban), team communication (spaces and channels), company workspaces with members and branding, a content management system, and administration and monitoring tools. Its core idea is structured collaboration between humans and AI agents for better outcomes, with a longer-term direction toward coordinating robotic and autonomous systems. Designed, built and operated by me.</p>
 
 **[Django + Wagtail CMS template](https://github.com/Aryan1359/Django-Wagtail-CMS-Base-Template)**
 
