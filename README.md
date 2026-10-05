@@ -53,3 +53,7 @@ I choose tools to fit the problem rather than the other way around; the "Built w
 - **Education:** MAS-E Robotics and Controls, UC Berkeley (in progress) · M.S. Software Engineering, Quantic · MBA, Quantic · MBA in E-Commerce, Industrial Management Institute.
 
 What the cockpit taught me carries into software: checklists, clear procedures, testing before trusting, and calm problem solving. That is the mindset I want to bring to aviation and aerospace technology.
+
+## Work with me
+
+I am available for consulting and project work in **robotics, simulation, AI and web development**, especially where they meet aviation and aerospace. If you have a project or an idea you would like to discuss, the best way to reach me is a message on [LinkedIn](https://www.linkedin.com/in/aryan-yaghobi/).
